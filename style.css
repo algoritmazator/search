@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.poisk{
+    padding: 0.5%;
+    width: 20%;
+    border-radius: 5px;
+    border: 2px solid #ab9a7b;
+    outline: none;
+ 
+}
+.button{
+    outline: none!important;
+    cursor: pointer;
+    padding: 0.5%;
+    border-radius: 5px;
+    width: 10%;
+    background-color: rgb(228, 109, 11);
+    color: white;
+    font-weight: bold
+}
